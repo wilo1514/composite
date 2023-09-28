@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/flopezs/OneDrive - Universidad Politecnica Salesiana/Documentos/NetBeansProjects/Jtree/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/flopezs/OneDrive - Universidad Politecnica Salesiana/Documentos/NetBeansProjects/Jtree/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Jtree 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Jtree 1.0-SNAPSHOT API'
+ups.msof.jtree
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\src\main\java = 1695905945070
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\allclasses-index.html = 1695906540167
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\allpackages-index.html = 1695906540171
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\copy.svg = 1695906540203
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\element-list = 1695906540094
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\help-doc.html = 1695906540197
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\index-all.html = 1695906540186
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\index.html = 1695906540192
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\jquery-ui.overrides.css = 1695906540221
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\member-search-index.js = 1695906540176
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\module-search-index.js = 1695906540173
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\overview-tree.html = 1695906540154
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\package-search-index.js = 1695906540174
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\script.js = 1695906540202
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\search-page.js = 1695906540208
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\search.html = 1695906540189
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\search.js = 1695906540206
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\serialized-form.html = 1695906540130
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\stylesheet.css = 1695906540200
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\tag-search-index.js = 1695906540177
+C:\Users\flopezs\OneDrive - Universidad Politecnica Salesiana\Documentos\NetBeansProjects\Jtree\target\site\apidocs\type-search-index.js = 1695906540175
